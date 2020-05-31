@@ -1,38 +1,15 @@
 /* Universal Styles */
 
-html {
-  font-family: "Verdana", sans-serif;
-  font-size: 16px;
-}
-
-.main-content {
-  position: relative;
-  top: 5.3125rem; /* To offset for fixed header. */
-}
-
-.center {
-  text-align: center;
-}
 
 body{
-
   background-color: black;
-}
-
-/* Header */
-
-
-header {
+  text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-
-
-header .logo {
-  font-size: 50px;
-  font-weight: normal;
+/* Header */
+.header-main{
   color:white;
-  text-align: center;
+  font-size:50px;
+  font-weight: normal;
 }
-
