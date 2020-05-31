@@ -13,3 +13,10 @@ body{
   font-size:50px;
   font-weight: normal;
 }
+
+/* link */
+
+.link-cta{
+  color: aquamarine;
+  font-size: 16px;
+}
